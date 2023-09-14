@@ -54,7 +54,7 @@ This will allow you to view and interact with the information in the database.
 
 ![new tag path in Insomnia](./dev-assets/images/new-tag-path.png)
 
-A video demonstrating the utility of the application can be viewed at this link:
+A video demonstrating the utility of the application can be viewed at this link: https://drive.google.com/file/d/1pNnaCd6NupcfSzUnEy_5VI8FEIct7fVc/view
 
 ## Credits
 
